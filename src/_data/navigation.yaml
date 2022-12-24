@@ -6,3 +6,5 @@ items:
     url: "/privacy"
   - text: Blog
     url: "/blog"
+  - text: Google Data Policy
+    url: "/google"
