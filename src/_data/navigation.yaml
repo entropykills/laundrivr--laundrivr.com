@@ -8,3 +8,5 @@ items:
     url: "/blog"
   - text: Google Data Policy
     url: "/google"
+  - text: Support
+    url: "/support"
