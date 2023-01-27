@@ -10,3 +10,5 @@ items:
     url: "/google"
   - text: Support
     url: "/support"
+  - text: Web Panel
+    url: "https://web.laundrivr.com"
