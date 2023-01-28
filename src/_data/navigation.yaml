@@ -4,8 +4,8 @@ items:
     url: "/terms"
   - text: Privacy
     url: "/privacy"
-  - text: Blog
-    url: "/blog"
+  - text: Blogs & Documentation
+    url: "https://checkered-pantydraco-34c.notion.site/Laundrivr-Home-f25106bf1dc34c43a84ba4e54dbbcbde"
   - text: Google Data Policy
     url: "/google"
   - text: Support
